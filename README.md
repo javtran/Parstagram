@@ -63,4 +63,14 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+User stays logged in after restarting app.
+
+<img src='https://media3.giphy.com/media/1edMjqVczc1xXKOlLb/giphy.gif?cid=790b7611b74215137dd802d15f43dfdd939fee6c7d6e55fe&rid=giphy.gif&ct=g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+User can log out and stay logged out after restarting app.
+
+<img src='https://media0.giphy.com/media/XpvKmULLALQzJlVfas/giphy.gif?cid=790b7611b12f2ef07c3ef8354465524d4529fdb811dbdd19&rid=giphy.gif&ct=g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+User can add a new comment and view comments.
+
+<img src='https://media3.giphy.com/media/WJEZJGndGZPbBb8XqL/giphy.gif?cid=790b7611dddbdd1c8ac56b7ac0a89eab9e60691bb0a663c8&rid=giphy.gif&ct=g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
